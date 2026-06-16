@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://USERNAME.github.io/roman-yosi-wiki/sitemap.xml
